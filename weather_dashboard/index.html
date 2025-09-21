@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dynamic Weather Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="overlay">
+    <div class="container">
+      <h1>🌧️ ClimaView ☀️</h1>
+
+      <div class="search-box">
+        <input type="text" id="cityInput" placeholder="Enter city name..." />
+        <button id="searchBtn">Search</button>
+        <label class="switch">
+          <input type="checkbox" id="unitToggle">
+          <span class="slider round"></span>
+        </label>
+        <span id="unitLabel">°C / °F</span>
+      </div>
+      <div id="weatherCard" class="card">
+        <h2 id="cityName"></h2>
+        <p id="description"></p>
+        <img id="weatherIcon" alt="Weather icon"/>
+        <p id="temperature"></p>
+        <p id="humidity"></p>
+        <p id="wind"></p>
+      </div>
+      <div id="forecastContainer" class="forecast"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
