@@ -20,4 +20,11 @@ Unsplash / PNG images – Dynamic backgrounds
 
 OpenWeatherMap Icons – Weather representation
 
-Demo link:
+Ouput :
+<img width="1916" height="1028" alt="Screenshot 2025-09-21 114253" src="https://github.com/user-attachments/assets/7c7045e8-0296-4df2-8cd6-89c050990836" />
+<img width="1906" height="1078" alt="Screenshot 2025-09-21 114236" src="https://github.com/user-attachments/assets/8f4ab2d4-fe56-42cd-902e-4c5ff8ea8ac8" />
+<img width="1902" height="1021" alt="Screenshot 2025-09-21 114206" src="https://github.com/user-attachments/assets/6f02847c-889e-4c8f-a9d8-c10451c821b6" />
+
+
+
+
