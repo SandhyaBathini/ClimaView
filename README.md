@@ -19,3 +19,5 @@ Geolocation API – Detecting user’s current location
 Unsplash / PNG images – Dynamic backgrounds
 
 OpenWeatherMap Icons – Weather representation
+
+Demo link:
