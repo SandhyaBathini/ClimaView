@@ -1,5 +1,5 @@
 
-const apiKey = "a6fc8af6a3659e1abba62ac6793eb20c";
+const apiKey = "Use Yours";
 
 const weatherCard = document.getElementById('weatherCard');
 const cityNameEl = document.getElementById('cityName');
